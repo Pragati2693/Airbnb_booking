@@ -22,7 +22,7 @@ A5 - Maximum number of booking by a user is 15, visited the site 89 times, spent
 Q6 - Average time spent by users who did booking <br/>
 A6 - 203 mins or  3.38 hrs
 
-Insights from BpowerBI report:
+### Insights from BpowerBI report:
 1. Among the top 10 user who visited the sites maximum number of times, the top user visited the site 702 times <br/>
 2. Maximum number of booking is done in December which is 22 bookings.<br/>
 3. total number of visites on site is 7756, total number of searches are 1236, total sms sent is 1279, total number of booking is 145
